@@ -1340,6 +1340,24 @@
         "front": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
         "back": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/back/150.png"
       }
+    },
+    {
+      "name": "asdf",
+      "hp": "07",
+      "sprites": {
+        "front": "asd",
+        "back": "rtwhy"
+      },
+      "id": 151
+    },
+    {
+      "name": "Bulbaur",
+      "hp": "07",
+      "sprites": {
+        "front": "https://media.gamestop.com/i/gamestop/11100845/Jazwares-Pokemon-Bulbasaur-Plush-24-in?$pdp-thumb$$&fmt=webp",
+        "back": "https://media.gamestop.com/i/gamestop/11100845_ALT01/Jazwares-Pokemon-Bulbasaur-Plush-24-in?$pdp-thumb$$&fmt=webp"
+      },
+      "id": 152
     }
   ]
 }
